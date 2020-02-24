@@ -1,0 +1,153 @@
+Lp.	Dzia³ Produkcyjny	Urz¹dzenie	Kategoria	Grupa	Nazwa Czêœci	Typ / numer	Iloœæ min.	Stan obecny	Sposób przechowania	Lokalizacja	Adres	Typ wymiaru	Szerokoœæ [cm]	D³ugoœæ [cm]	Wyskoœæ [cm]	Waga [kg]
+1	Produkcja	Spawarki	Elektryka	PrzekaŸniki	PrzekaŸnik sterowania	 	1	3	Kuweta NP8	Szafa nr 1	A4	Pojemnik	12	20	9	0,23
+2	Produkcja	Spawarki	Napêd	£o¿yska	£o¿yska do podajnika	810	1	9	Kuweta NP8	Szafa nr 1	A4	Pojemnik	12	20	9	0,25
+3	Produkcja	Zgrzewarki	Elektryka	Inne	Blok tyrystorowy	 	1	1	Kuweta NP8	Magazyn g³ówny	A4	Pojemnik	12	20	9	0,1
+4	Produkcja	Zgrzewarki	Elektryka	Inne	P³ytka startowa	 	1	1	Kuweta NP12	Magazyn g³ówny	A4	Pojemnik	20	29	15	0,05
+5	Produkcja	Zgrzewarki	Elektryka	Inne	Programator	TE 500	1	2	Kuweta NP10	Magazyn g³ówny	A4	Pojemnik	15,5	23	12	0,07
+6	Produkcja	Prasy	Elektryka	W³¹czniki/Wy³¹czniki	Wy³¹cznik STOP	 	1	3	Kuweta NP8	Szafa nr 1	A1	Pojemnik	12	20	9	1,3
+7	Produkcja	Prasy	Hydraulika	Regulatory	Rozdzielacz 	"3/4"""	1	0	Kuweta NP12	Szafa nr 1	A1	Pojemnik	20	29	15	0,4
+8	Produkcja	Prasy	Elektryka	W³¹czniki/Wy³¹czniki	Wy³¹cznik krañcowy	XCK-M	1	13	Kuweta NP6	Szafa nr 1	A1	Pojemnik	10	16	7	0,17
+9	Produkcja	Giêtarki/Spêczarki	Napêd	Paski napêdowe	Pasek zêbaty Crippa	HTD 912 8M	1	3	Kuweta NP10	Szafa nr 1	A1	Pojemnik	15,5	23	12	0,2
+10	Produkcja	Giêtarki/Spêczarki	Elektryka	Zawory	Elektrozawór	1	1	4	Kuweta NP10	Szafa nr 1	A1	Pojemnik	15,5	23	12	1,3
+11	Produkcja	Giêtarki/Spêczarki	Hydraulika	Zawory	Zawór zwrotny	02B	1	5	Kuweta NP10	Szafa nr 1	A1	Pojemnik	15,5	23	12	1,2
+12	Produkcja	Giêtarki/Spêczarki	Hydraulika	Zawory	Zawór zwrotny	3	1	0	Kuweta NP10	Szafa nr 1	A2	Pojemnik	15,5	23	12	1,4
+13	Produkcja	Giêtarki/Spêczarki	Elektryka	Zawory	Elektrozawór	3	1	0	Kuweta NP10	Szafa nr 1	A2	Pojemnik	15,5	23	12	1,2
+14	Produkcja	Giêtarki/Spêczarki	Elektryka	PrzekaŸniki	PrzekaŸnik	G6-1114P  ONRON	2	6	Kuweta NP8	Szafa nr 1	A2	Pojemnik	12	20	9	0,05
+15	Produkcja	Giêtarki/Spêczarki	Hydraulika	Zawory	Zawór zwrotny	02W	1	1	Kuweta NP10	Szafa nr 1	A2	Pojemnik	15,5	23	12	1,4
+16	Produkcja	Giêtarki/Spêczarki	Elektryka	Styczniki	Stycznik	 	1	2	Kuweta NP8	Szafa nr 1	A2	Pojemnik	12	20	9	0,09
+17	Produkcja	Giêtarki/Spêczarki	Hydraulika	Zawory	Zaworki	 	1	7	Kuweta NP8	Szafa nr 1	A2	Pojemnik	12	20	9	0,12
+18	Produkcja	Giêtarki/Spêczarki	Hydraulika	Silniki	Silnik z pomp¹		1	0	Detal	Szafa nr 1	A2	Czêœæ	50	30	25	64
+19	Produkcja	Giêtarki/Spêczarki	Hydraulika	Regulatory	Regulator ciœnienia	3	1	6	Kuweta NP12	Magazyn g³ówny	E5	Pojemnik	20	29	15	0,6
+20	Produkcja	Pi³y	Napêd	Silniki	Silnik napêdu taœmy	MDERAXX 080-12J	1	7	Detal	Magazyn g³ówny	E5	Czêœæ	33	20	28	38
+21	Produkcja	Pi³y	Napêd	£o¿yska	£o¿yska	6205 2z/c3	2	2	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,24
+22	Produkcja	Pi³y	Napêd	£o¿yska	£o¿yska	6012-2RS 	4	15	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,32
+23	Produkcja	Pi³y	Napêd	£o¿yska	£o¿yska	607-2RSH/C3	10	6	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,33
+24	Produkcja	Pi³y	Uszczelnienia	Uszczelki	Uszczelniacz	 85x60x8	2	0	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,08
+25	Produkcja	Pi³y	Elektryka	W³¹czniki/Wy³¹czniki	Wy³¹cznik krañcowy	XCKN2110G11	2	9	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,09
+26			Inne	Œcierniwo	Kamieñ szlifierski 20 x 25 x 6	ZY 2025 6ADW 30 6B		7	Kuweta NP12	Warsztat konserwatorów		Pojemnik	20	29	15	0,18
+27	Produkcja	Pi³y	Napêd	£o¿yska	£o¿yska	6008 - 2RSR	2	4	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,29
+28	Produkcja	Pi³y	Inne	Filtry	Filtr	SPR0502SG1	2	4	Kuweta NP16	Magazyn g³ówny	E5	Pojemnik	24	39	18	0,78
+29	Produkcja	Pi³y	Napêd	£o¿yska	£o¿yska	6301SR	2	4	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,32
+30	Produkcja	Pi³y	Uszczelnienia	Uszczelki	Uszczelnienie si³ownika ring	?40 x 2,5	10	3	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,09
+31	Produkcja	Pi³y	Uszczelnienia	Zgarniacze	Zgarniacz	32 x 40 x 5,7	10	2	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,08
+32	Produkcja	Pi³y	Uszczelnienia	Uszczelki	Uszczelnienie t³oka	30 x 28  x 6	10	4	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,11
+33	Produkcja	Wiertarki	Inne	Wiert³a	Wiert³o z pilotem ?6,3	?6,3	2	3	Kuweta NP8	Magazyn g³ówny	E5	Pojemnik	12	20	9	0,45
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
