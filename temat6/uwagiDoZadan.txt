@@ -1,0 +1,3 @@
+Uwagi do zadań!
+- plik gas.mat zawiera ceny paliwa 20 stacji z początku i końca miesiąca
+- plik fisheriris.mat - https://en.wikipedia.org/wiki/Iris_flower_data_set
